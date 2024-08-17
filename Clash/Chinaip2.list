@@ -1,7 +1,7 @@
 # 内容：中国IP地址段ipv4 补充
 # 来源：https://github.com/onchina/rule/new/master/Clash/Chinaip2.list
 # 更新：2024-08-18 00:33:01
-# 数量：1条
+# 数量：2条
 
 
 IP-CIDR,120.232.0.0/16,no-resolve
