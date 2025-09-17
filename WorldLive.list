@@ -1,19 +1,7 @@
-# 针对 gate 的流量
-DOMAIN-SUFFIX, gate.io
-DOMAIN-SUFFIX, gate.com
-DOMAIN-SUFFIX, gateio.ws
-DOMAIN-SUFFIX, gateapi.io
-DOMAIN-SUFFIX, gateimg.com
-DOMAIN-SUFFIX, gatedata.org
-DOMAIN-KEYWORD, gateio
-DOMAIN-KEYWORD, gatecdn
+# 针对 bigolive 的流量
+DOMAIN-SUFFIX, bigo.sg
+DOMAIN-SUFFIX, bigo.tv
+DOMAIN-SUFFIX, bigolive.tv
+DOMAIN-KEYWORD, bigo
  
- 
-# 针对 Binance 的流量
-DOMAIN-SUFFIX, binance.com
-DOMAIN-SUFFIX, binance.me
-DOMAIN-SUFFIX, binance.info
-DOMAIN-SUFFIX, binance.org
-DOMAIN-SUFFIX, binance.us
-DOMAIN-SUFFIX, binance.sg
-DOMAIN-SUFFIX, binance.co
+
