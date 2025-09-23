@@ -1,1 +1,5 @@
-
+# 针对 过滤的 黑名单，去广告，去手机自动更新。
+DOMAIN-SUFFIX, 111.sg
+DOMAIN-SUFFIX, 222.tv
+DOMAIN-SUFFIX, 333.tv
+DOMAIN-KEYWORD, 888342341f
