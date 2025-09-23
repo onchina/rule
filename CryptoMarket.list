@@ -7,13 +7,14 @@ DOMAIN-SUFFIX, gateimg.com
 DOMAIN-SUFFIX, gatedata.org
 DOMAIN-KEYWORD, gateio
 DOMAIN-KEYWORD, gatecdn
- 
+DOMAIN-KEYWORD, gateweb3
+DOMAIN-SUFFIX, app-spot-ws.csrqoa.com.a3443e11.cdnhwcgqa21.com
+DOMAIN-SUFFIX, hcdnwsa120.v5.gate.cdnhwcbqs106.com
+DOMAIN-SUFFIX, apipro.gateweb3.cc.eo.dnse3.com
+DOMAIN-SUFFIX, app.panpno.com.eo.dnse3.com
+DOMAIN-SUFFIX, eo.dnse3.com
+DOMAIN-SUFFIX, dnse3.com
  
 # 针对 Binance 的流量
-DOMAIN-SUFFIX, binance.com
-DOMAIN-SUFFIX, binance.me
-DOMAIN-SUFFIX, binance.info
-DOMAIN-SUFFIX, binance.org
-DOMAIN-SUFFIX, binance.us
-DOMAIN-SUFFIX, binance.sg
-DOMAIN-SUFFIX, binance.co
+
+DOMAIN-KEYWORD, binance
