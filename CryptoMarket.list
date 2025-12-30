@@ -23,4 +23,8 @@ DOMAIN-KEYWORD, gateweb3
 
 # 针对 Binance 的流量
 
-DOMAIN-KEYWORD, binance
+
+
+DomainSuffix :: binance.com
+DomainSuffix :: bnbstatic.com
+# DOMAIN-KEYWORD, binance
