@@ -1,0 +1,2 @@
+127.0.0.1 component-ota-cn.allawntech.com
+127.0.0.1 pantanal-sys-cn.allawntech.com
