@@ -2,7 +2,8 @@ proxies:
   - name: 音乐解锁(大师专用)
     type: http
     server: 192.168.66.2
-    port: 5200
+    port: 5201
+    tls: true
     udp: false
   - name: 音乐解锁(192.168.0.1)
     type: http
