@@ -1,20 +1,20 @@
 proxies:
-  - name: 🔓 音乐解锁(大师专用)
+  - name: 音乐解锁(大师专用)
     type: http
     server: 192.168.66.2
     port: 5200
     udp: false
-  - name: 🔓 音乐解锁(192.168.0.1)
+  - name: 音乐解锁(192.168.0.1)
     type: http
     server: 192.168.0.1
     port: 5200
     udp: false
-  - name: 🔓 音乐解锁(192.168.0.254)
+  - name: 音乐解锁(192.168.0.254)
     type: http
     server: 192.168.0.254
     port: 5200
     udp: false
-  - name: 🔓 音乐解锁(192.168.1.1)
+  - name: 音乐解锁(192.168.1.1)
     type: http
     server: 192.168.1.1
     port: 5200
