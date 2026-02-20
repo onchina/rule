@@ -13,7 +13,7 @@ DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN,guzzoni.apple.com
 DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN-SUFFIX,apple-livephotos.com
-DOMAIN,api.smoot.apple.cn
+# DOMAIN,api.smoot.apple.cn
 
 # [私有云计算 (PCC) 隐私中继]
 DOMAIN,apple-relay.cloudflare.com
@@ -48,8 +48,8 @@ DOMAIN,gsp-tk.ls.apple.com
 DOMAIN,cl4.apple.com
 DOMAIN,configuration.ls.apple.com
 DOMAIN,captive-geo.origin-apple.com.akadns.net
-DOMAIN,www.sina.com.cn
-DOMAIN,gateway.fe.apple-dns.cn
+# DOMAIN,www.sina.com.cn
+# DOMAIN,gateway.fe.apple-dns.cn
 
 # [CDN 与 静态资源]
 DOMAIN,bag.itunes.apple.com.download.ks-cdn.com
@@ -57,7 +57,7 @@ DOMAIN,bag.itunes.apple.com.w.cdngslb.com
 DOMAIN,updates.jsd.ksyunv5.com
 DOMAIN,k128-mzstatic.gslb.ksyuncdn.com
 DOMAIN,apple.comscoreresearch.com
-DOMAIN-SUFFIX,apple-dns.cn
+# DOMAIN-SUFFIX,apple-dns.cn
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,fastly-edge.com
 DOMAIN-SUFFIX,aaplimg.com
@@ -65,14 +65,14 @@ DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,apple.co
 DOMAIN-SUFFIX,apple.com
-DOMAIN-SUFFIX,apple.com.cn
+# DOMAIN-SUFFIX,apple.com.cn
 DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,icloud.com.cn
+# DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
