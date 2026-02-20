@@ -1,7 +1,65 @@
 # Apple
 # 一般国内Apple肯定正常,不需要开代理
 
+
+# [Apple Intelligence 本体激活与模型分发]
+DOMAIN,albert.apple.com
+DOMAIN,gs.apple.com
+DOMAIN,humb.apple.com
+DOMAIN,static.ips.apple.com
+DOMAIN-SUFFIX,configuration.apple.com
+DOMAIN-SUFFIX,gdmf.apple.com
+DOMAIN-SUFFIX,appldnld.apple.com
+DOMAIN-SUFFIX,gg.apple.com
+
+# [Siri & 搜索增强 (2026版)]
+DOMAIN,guzzoni.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN-SUFFIX,apple-livephotos.com
+
+# [私有云计算 (PCC) 隐私中继]
+# 核心中继节点，若直连会导致 AI 请求超时
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,cp4.cloudflare.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+
+# [AI 扩展插件专用 (ChatGPT/Gemini 握手)]
+# 解决“当前不支持扩展”的关键域名
+DOMAIN,apple-relay.apple.com
+DOMAIN-SUFFIX,gateway.apple.com
+
+# [第三方模型插件: ChatGPT]
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+
+# [第三方模型插件: Gemini]
+# 注意：iOS 19+ 深度集成 Gemini 需要走 API 通道
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-KEYWORD,googleapis
+
+# [地理围栏与位置屏蔽 (关键防御)]
+# 强制让位置校验请求走新加坡，防止被基站/Wi-Fi 定位识破
+DOMAIN,ls.apple.com
+DOMAIN,gsp-tk.ls.apple.com
+DOMAIN,cl4.apple.com
+DOMAIN,configuration.ls.apple.com
+
+
+
+
+
+
+
+
+
 # 位置服务与区域检测
+
+
 
 DOMAIN,www.sina.com.cn
 DOMAIN,gateway.fe.apple-dns.cn
