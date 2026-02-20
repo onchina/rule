@@ -1,5 +1,12 @@
 # Apple
 # 一般国内Apple肯定正常,不需要开代理
+
+DOMAIN,bag.itunes.apple.com.w.cdngslb.com
+DOMAIN,updates.jsd.ksyunv5.com
+DOMAIN,k128-mzstatic.gslb.ksyuncdn.com
+DOMAIN,cp4.cloudflare.com
+DOMAIN-SUFFIX,apple-dns.net
+DOMAIN-SUFFIX,fastly-edge.com
 DOMAIN,apple.comscoreresearch.com
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,akadns.net
