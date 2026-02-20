@@ -3,7 +3,7 @@
 
 # 位置服务与区域检测
 
-
+DOMAIN,www.sina.com.cn
 DOMAIN,gateway.fe.apple-dns.cn
 DOMAIN,bag.itunes.apple.com.download.ks-cdn.com
 DOMAIN-SUFFIX,apple-dns.cn
