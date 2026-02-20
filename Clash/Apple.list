@@ -2,47 +2,50 @@
 # 一般国内Apple肯定正常,不需要开代理
 
 # 位置服务与区域检测
-DOMAIN, bag.itunes.apple.com.download.ks-cdn.com
-DOMAIN-SUFFIX, apple-dns.cn
-DOMAIN, ls.apple.com
-DOMAIN, gsp-tk.ls.apple.com
-DOMAIN, cl4.apple.com
-DOMAIN, configuration.ls.apple.com
-DOMAIN, api.smoot.apple.cn
-DOMAIN, captive-geo.origin-apple.com.akadns.net
+
+
+DOMAIN,gateway.fe.apple-dns.cn
+DOMAIN,bag.itunes.apple.com.download.ks-cdn.com
+DOMAIN-SUFFIX,apple-dns.cn
+DOMAIN,ls.apple.com
+DOMAIN,gsp-tk.ls.apple.com
+DOMAIN,cl4.apple.com
+DOMAIN,configuration.ls.apple.com
+DOMAIN,api.smoot.apple.cn
+DOMAIN,captive-geo.origin-apple.com.akadns.net
 
 # 核心激活与校验
-DOMAIN, albert.apple.com
-DOMAIN, gs.apple.com
-DOMAIN, static.ips.apple.com
-DOMAIN, humb.apple.com
-DOMAIN-SUFFIX, configuration.apple.com
-DOMAIN-SUFFIX, gdmf.apple.com
+DOMAIN,albert.apple.com
+DOMAIN,gs.apple.com
+DOMAIN,static.ips.apple.com
+DOMAIN,humb.apple.com
+DOMAIN-SUFFIX,configuration.apple.com
+DOMAIN-SUFFIX,gdmf.apple.com
 
 # AI 资产下载 (模型包)
-DOMAIN-SUFFIX, appldnld.apple.com
-DOMAIN-SUFFIX, gg.apple.com
-DOMAIN-SUFFIX, iadsdk.apple.com
+DOMAIN-SUFFIX,appldnld.apple.com
+DOMAIN-SUFFIX,gg.apple.com
+DOMAIN-SUFFIX,iadsdk.apple.com
 
 
 # 苹果自有大模型服务器
-DOMAIN-SUFFIX, apple-cloudkit.com
-DOMAIN-SUFFIX, apple-livephotos.com
-DOMAIN-SUFFIX, gateway.apple.com
-DOMAIN-KEYWORD, pcc-query.apple.com
-DOMAIN-KEYWORD, pcc.apple.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,apple-livephotos.com
+DOMAIN-SUFFIX,gateway.apple.com
+DOMAIN-KEYWORD,pcc-query.apple.com
+DOMAIN-KEYWORD,pcc.apple.com
 
 # OpenAI 扩展接口 (ChatGPT)
-DOMAIN-SUFFIX, openai.com
-DOMAIN-SUFFIX, chatgpt.com
-DOMAIN-SUFFIX, auth0.com
-DOMAIN-KEYWORD, openaiapi
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-KEYWORD,openaiapi
 
 # Google 扩展接口 (Gemini)
-DOMAIN-SUFFIX, gemini.google.com
-DOMAIN-SUFFIX, generativelanguage.googleapis.com
-DOMAIN-SUFFIX, proactivebackend-pa.googleapis.com
-DOMAIN-SUFFIX, googleapis.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,googleapis.com
 
 
 DOMAIN,bag.itunes.apple.com.w.cdngslb.com
