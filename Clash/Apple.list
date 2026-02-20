@@ -52,6 +52,8 @@ DOMAIN,captive-geo.origin-apple.com.akadns.net
 # DOMAIN,gateway.fe.apple-dns.cn
 
 # [CDN 与 静态资源]
+
+DOMAIN,updates.cdn-apple.com.w.kunlunca.com
 DOMAIN,bag.itunes.apple.com.download.ks-cdn.com
 DOMAIN,bag.itunes.apple.com.w.cdngslb.com
 DOMAIN,updates.jsd.ksyunv5.com
