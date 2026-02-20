@@ -6,7 +6,7 @@ DOMAIN, ls.apple.com
 DOMAIN, gsp-tk.ls.apple.com
 DOMAIN, cl4.apple.com
 DOMAIN, configuration.ls.apple.com
-
+DOMAIN, api.smoot.apple.cn
 DOMAIN, captive-geo.origin-apple.com.akadns.net
 
 # 核心激活与校验
