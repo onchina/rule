@@ -3,7 +3,7 @@
 
 # 位置服务与区域检测
 DOMAIN, bag.itunes.apple.com.download.ks-cdn.com
-DOMAIN, apple-dns.cn
+DOMAIN-SUFFIX, apple-dns.cn
 DOMAIN, ls.apple.com
 DOMAIN, gsp-tk.ls.apple.com
 DOMAIN, cl4.apple.com
