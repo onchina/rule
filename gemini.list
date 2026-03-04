@@ -1,12 +1,13 @@
 
 # --- Gemini / Google AI ---
-DOMAIN-SUFFIX, gemini.google.com
 DOMAIN, generativelanguage.googleapis.com
 DOMAIN, aistudio.google.com
+DOMAIN, gemini.google.com
 
 # --- Antigravity ---
-DOMAIN-SUFFIX, antigravity-unleash.goog
+DOMAIN, www.google-analytics.com
 DOMAIN, analytics.google.com
+DOMAIN, generativelanguage.googleapis.com
+DOMAIN-SUFFIX, antigravity-unleash.goog
 DOMAIN-SUFFIX, antigravity.ai
-DOMAIN-SUFFIX, generativelanguage.googleapis.com
 
