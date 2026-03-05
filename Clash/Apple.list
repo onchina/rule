@@ -35,12 +35,6 @@ DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-KEYWORD,openaiapi
 
-# [第三方模型插件: Gemini]
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
-DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-KEYWORD,googleapis
 
 # [地理围栏与位置屏蔽]
 DOMAIN,ls.apple.com
