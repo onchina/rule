@@ -3,3 +3,11 @@ DOMAIN-SUFFIX, bigo.sg
 DOMAIN-SUFFIX, bigo.tv
 DOMAIN-SUFFIX, bigolive.tv
 DOMAIN-KEYWORD, bigo
+
+# 针对 Stripchat 的流量
+DOMAIN-SUFFIX,stripchat.com
+DOMAIN-SUFFIX,strpst.com
+DOMAIN-SUFFIX, striiiipst.com
+DOMAIN-SUFFIX, doppiocdn.com
+DOMAIN-SUFFIX, doppiocdn.org
+DOMAIN-SUFFIX, doppiocdn.live
