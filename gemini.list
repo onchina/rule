@@ -15,7 +15,8 @@ DOMAIN-SUFFIX, antigravity.ai
 
 # --- Google ---
 DOMAIN, aistudio.google.com
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
-DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-KEYWORD,googleapis
+DOMAIN-SUFFIX, generativelanguage.googleapis.com
+DOMAIN-SUFFIX, proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX, googleapis.com
+DOMAIN-SUFFIX, clients6.google.com
+DOMAIN-KEYWORD, googleapis
