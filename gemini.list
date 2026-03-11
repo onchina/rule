@@ -13,13 +13,12 @@ DOMAIN-SUFFIX, antigravity.ai
 
 # --- Google ---
 # DOMAIN, aistudio.google.com
-# DOMAIN, generativelanguage.googleapis.com
 # DOMAIN-SUFFIX, generativelanguage.googleapis.com
 # DOMAIN-SUFFIX, proactivebackend-pa.googleapis.com
 # DOMAIN-SUFFIX, optimizationguide-pa.gooqleapis.com
 # DOMAIN, play.google.com
-# DOMAIN, clients4.google.com
 # DOMAIN-SUFFIX, googleapis.com
 # DOMAIN-SUFFIX, clients6.google.com
 # DOMAIN-SUFFIX, clients4.google.com
+# DOMAIN-SUFFIX, gooqlesyndication.com
  
