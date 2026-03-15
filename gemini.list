@@ -1,8 +1,11 @@
 
 # --- Gemini ---
-DOMAIN, gemini.google.com
-DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX, bard.google.com
+DOMAIN-SUFFIX, gemini.google.com
 
+# --- Google DeepMind ---
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
 
 # --- Antigravity ---
 DOMAIN, www.google-analytics.com
@@ -11,10 +14,19 @@ DOMAIN-SUFFIX, antigravity-unleash.goog
 DOMAIN-SUFFIX, antigravity.ai
 
 
-# --- Google ---
-# DOMAIN, aistudio.google.com
-# DOMAIN-SUFFIX, generativelanguage.googleapis.com
-# DOMAIN-SUFFIX, proactivebackend-pa.googleapis.com
+# --- Google Generative Language API  ---
+DOMAIN-SUFFIX, generativelanguage.googleapis.com
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX, proactivebackend-pa.googleapis.com
+
+# --- Google AI Studio ---
+DOMAIN,ai.google.dev
+DOMAIN,alkalicore-pa.clients6.google.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,generativeai.google
+
+
 # DOMAIN-SUFFIX, optimizationguide-pa.gooqleapis.com
 # DOMAIN, play.google.com
 # DOMAIN-SUFFIX, googleapis.com
