@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,apple-livephotos.com
 # DOMAIN,api.smoot.apple.cn
 
 # [私有云计算 (PCC) 隐私中继]
-DOMAIN,apple-relay.cloudflare.com
+
 DOMAIN,apple-relay.fastly-edge.com
 DOMAIN,cp4.cloudflare.com
 DOMAIN-SUFFIX,apple-cloudkit.com
@@ -24,24 +24,14 @@ DOMAIN-KEYWORD,pcc-query.apple.com
 DOMAIN-KEYWORD,pcc.apple.com
 
 # [AI 扩展插件专用 (ChatGPT/Gemini 握手)]
-DOMAIN,apple-relay.apple.com
-DOMAIN-SUFFIX,gateway.apple.com
+
 
 # [第三方模型插件: ChatGPT]
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,oaiusercontent.com
-DOMAIN-SUFFIX,auth0.com
-DOMAIN-KEYWORD,openaiapi
+
 
 
 # [地理围栏与位置屏蔽]
-DOMAIN,ls.apple.com
-DOMAIN,gsp-tk.ls.apple.com
-DOMAIN,cl4.apple.com
-DOMAIN,configuration.ls.apple.com
-DOMAIN,captive-geo.origin-apple.com.akadns.net
+
 # DOMAIN,www.sina.com.cn
 # DOMAIN,gateway.fe.apple-dns.cn
 
