@@ -1,7 +1,6 @@
 IP-CIDR,168.107.11.64/32,no-resolve
-DOMAIN-SUFFIX, 75mhk-1.ezov.de
-DOMAIN-SUFFIX, yhhk1.ezov.de
-DOMAIN-SUFFIX, gz-tencent.wuhujing.de
+
+DOMAIN-SUFFIX, wuhujing.de
 DOMAIN-SUFFIX, 505330.xyz
 DOMAIN-SUFFIX, ezov.de
 DOMAIN-SUFFIX, 036630.xyz
@@ -14,7 +13,6 @@ DOMAIN-SUFFIX, everstatic.net
 DOMAIN-SUFFIX, gdwswe.xyz
 DOMAIN-SUFFIX, umygza.xyz
 DOMAIN-SUFFIX, creamcached.com
-
 
 
 # [Apple Intelligence 本体激活与模型分发]
