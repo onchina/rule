@@ -1,5 +1,9 @@
 
 # -----------ipv6---------
 
-DOMAIN-SUFFIX,wsmdn.top
-DOMAIN-SUFFIX,onchina.vip
+# DOMAIN-SUFFIX,wsmdn.top
+# DOMAIN-SUFFIX,onchina.vip
+
+
++.wsmdn.top
++.onchina.vip
