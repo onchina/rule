@@ -4,3 +4,7 @@ IP-CIDR,104.26.1.241/32
 IP-CIDR,104.26.0.241/32
 
 DOMAIN,v.recipes
+DOMAIN-SUFFIX, zhensudashi.com
+DOMAIN-SUFFIX, zhiweicloud.com
+DOMAIN-SUFFIX, miner3.com
+DOMAIN-SUFFIX, mypool.lol
